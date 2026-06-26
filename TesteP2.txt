@@ -1,0 +1,30 @@
+Sucesso
+12:20:59 - 28/02/2025 - caio - andre
+Digite a hora (0-23): 25
+Digite a hora (0-23): 23
+Digite os minutos (0-59): 61
+Digite os minutos (0-59): 55
+Digite os segundos (0-59): 3
+Digite o ano: 20043
+Ano invalido, digite um ano valido: 2003
+Digite o m s: 2
+Digite o dia: 30
+dia invalido, digite um dia v lido:
+28
+Digite o seu nome
+luiz
+Digite o nome do Medico
+miguel
+23:55:03 - 28/02/2003 - luiz - miguel
+Digite o ano: 1982
+Digite o m s: 4
+Digite o dia: 3
+Digite a hora (0-23): 20
+Digite os minutos (0-59): 1
+Digite os segundos (0-59): 30
+Digite o nome do Medico
+joao
+Digite o seu nome
+kleber
+20:01:30 - 03/04/1982 - kleber - joao
+2
